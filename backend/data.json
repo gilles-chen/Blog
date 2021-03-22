@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1616405357380",
+        "title": "Why I love learning new stuff",
+        "content": "Learning new things is just amazing.",
+        "post_image": "uploads/post-image-1616405357372.jpg",
+        "added_date": "1616405357380"
+    },
+    {
+        "id": "1581434523423",
+        "title": "Why I started with esports",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim justo turpis, et sollicitudin nulla ultrices at. Curabitur mauris metus, tincidunt eget dictum vel, rhoncus ut nisi. Praesent sed blandit lectus, sit amet convallis tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "post_image": "uploads/post-image-1581434523423.jpg",
+        "added_date": "1581375207401"
+    }
+]
